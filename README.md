@@ -4,4 +4,4 @@ This project is a Windows port for [github.com/TheScienceElf/Blocks-TI-84](https
 Project made in **C++**, uses **ImGui** on **GLAD**, **GLFW** implementation.
 
 # Demonstration
-![Demonstration](https://github.com/freezak/ti-84-blocks-windows-port/blob/master/blob/demo.gif?raw=true)
+![Demonstration](https://github.com/freezak/ti-84-blocks-windows-port/blob/e110a270e183677efd4cb2ba6566b92d2df7f8aa/blob/demo.gif)
